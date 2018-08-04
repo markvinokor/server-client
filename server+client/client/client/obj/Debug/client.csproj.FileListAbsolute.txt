@@ -1,0 +1,18 @@
+C:\Users\mark\Desktop\עבודה ברשתות\client\client\bin\Debug\client.exe.config
+C:\Users\mark\Desktop\עבודה ברשתות\client\client\bin\Debug\client.exe
+C:\Users\mark\Desktop\עבודה ברשתות\client\client\bin\Debug\client.pdb
+C:\Users\mark\Desktop\עבודה ברשתות\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\mark\Desktop\עבודה ברשתות\client\client\obj\Debug\client.Form1.resources
+C:\Users\mark\Desktop\עבודה ברשתות\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\mark\Desktop\עבודה ברשתות\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\mark\Desktop\עבודה ברשתות\client\client\obj\Debug\client.exe
+C:\Users\mark\Desktop\עבודה ברשתות\client\client\obj\Debug\client.pdb
+C:\Users\mark\Desktop\עבודה ברשתות\עבודת גמר server+client\client\client\bin\Debug\client.exe.config
+C:\Users\mark\Desktop\עבודה ברשתות\עבודת גמר server+client\client\client\bin\Debug\client.exe
+C:\Users\mark\Desktop\עבודה ברשתות\עבודת גמר server+client\client\client\bin\Debug\client.pdb
+C:\Users\mark\Desktop\עבודה ברשתות\עבודת גמר server+client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\mark\Desktop\עבודה ברשתות\עבודת גמר server+client\client\client\obj\Debug\client.Form1.resources
+C:\Users\mark\Desktop\עבודה ברשתות\עבודת גמר server+client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\mark\Desktop\עבודה ברשתות\עבודת גמר server+client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\mark\Desktop\עבודה ברשתות\עבודת גמר server+client\client\client\obj\Debug\client.exe
+C:\Users\mark\Desktop\עבודה ברשתות\עבודת גמר server+client\client\client\obj\Debug\client.pdb
